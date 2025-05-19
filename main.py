@@ -4,7 +4,7 @@ import time
 import tkinter as tk
 from tkinter import ttk
 
-# --- GUI for Color Selection ---
+
 def select_cloak_color():
     selected = []
 
